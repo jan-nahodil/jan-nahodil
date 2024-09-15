@@ -1,4 +1,4 @@
-🌍 <b>Hello, world! I'm John</b> 👋 <br>
+🌍 <strong>Hello, world! I'm John</strong> 👋 <br>
 Welcome to my GitHub profile, where lines of code transform into meaningful solutions! <br> 
 
 👨‍💻 <b>Something About Me</b> <br>
