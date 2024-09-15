@@ -13,4 +13,5 @@ I'm a freelancer striving to make my mark in the dynamic world of IT. My journey
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="35px" width="35px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="35px" width="35px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="35px" width="35px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="35px" width="35px">
 </div>
