@@ -8,3 +8,6 @@ I'm a freelancer striving to make my mark in the dynamic world of IT. My journey
 🎯 My goal: To contribute to impactful projects and grow as a developer.  <br>
 🌱 Always learning something new, because in IT, there’s always more to explore!  <br> <br>
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+</div>
