@@ -9,7 +9,7 @@ I'm a <b>freelancer</b> striving to make my mark in the dynamic world of IT. My 
 🌱 Always learning something new, because in IT, there’s always more to explore!  <br> <br>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="35px" width="35px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="35px" width="35px" alt="HTML">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="35px" width="35px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="35px" width="35px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="35px" width="35px">
