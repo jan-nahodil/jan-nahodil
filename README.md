@@ -1,4 +1,4 @@
-🌍 Hello, world! I'm [Tvé jméno] 👋
+🌍 Hello, world! I'm John 👋 <br>
 Welcome to my GitHub profile, where lines of code transform into meaningful solutions!
 
 👨‍💻 About Me
