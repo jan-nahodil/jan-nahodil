@@ -7,6 +7,7 @@ I'm a freelancer striving to make my mark in the dynamic world of IT. My journey
 💼 Currently exploring various technologies and developing personal projects.  <br>
 🎯 My goal: To contribute to impactful projects and grow as a developer.  <br>
 🌱 Always learning something new, because in IT, there’s always more to explore!  <br> <br>
+<div height="3px" width="100%" color=red></div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="35px" width="35px">
