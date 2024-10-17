@@ -14,5 +14,6 @@ I'm a young professional striving to make my mark in the dynamic world of IT. My
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="35px" width="35px" alt="JavaScript">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="35px" width="35px" alt="React.js">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="35px" width="35px" alt="Python">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="35px" width="35px" alt="Tailwind">  
 <img src="https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png" height="35px" width="35px" alt="Mendix">
 </div>
